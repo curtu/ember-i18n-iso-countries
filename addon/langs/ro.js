@@ -1,6 +1,4 @@
-{
-  "locale": "ro",
-  "countries": {
+export default {
     "AD": "Andorra",
     "AE": "Emiratele Arabe Unite",
     "AF": "Afganistan",
@@ -251,5 +249,4 @@
     "ZA": "Africa de Sud",
     "ZM": "Zambia",
     "ZW": "Zimbabwe"
-  }
 }
